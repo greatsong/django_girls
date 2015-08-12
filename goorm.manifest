@@ -1,0 +1,1 @@
+{"type":"python","detailedtype":"django","author":"greatsong21_22f3h_google","name":"django_girls","description":"django girls 튜토리얼 연습\n","date":"2015/8/12 5:32:6","plugins":{"goorm.plugin.python":{"plugin.python.compiler_type":"python2","plugin.python.main":"manage","plugin.python.source_path":""}},"is_user_plugin":false}
